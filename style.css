@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+.Facebook {
+    border: 1px solid #dadada;
+    width: 24pc;
+    padding: 11px;
+    border-radius: 6px;
+    margin-left: 22px;
+    margin-top: 112px;
+    box-shadow: 0 0 7px;
+}
+.Github {
+    margin-top: -686px;
+    margin-left: 34pc;
+    border: 1px solid #dadadada;
+    padding: 9px;
+    width: 22pc;
+    border-radius: 8px;
+    box-shadow: 0 0 7px;
+}
+.Linkdein {
+    margin-left: 34pc;
+    margin-top: 25px;
+    border: 1px solid #dadada;
+    border-radius: 7px;
+    padding: 11px;
+    width: 22pc;
+    box-shadow: 0 0 7px;
+}
+.crush {
+    margin-left: 34pc;
+    margin-top: 31px;
+    border: 1px solid #dadada;
+    width: 15pc;
+    padding: 7px;
+    border-radius: 14px;
+    box-shadow: 0 0 7px;
+}
